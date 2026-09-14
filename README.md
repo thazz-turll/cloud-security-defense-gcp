@@ -36,10 +36,3 @@ Hệ thống được phân chia thành các lớp phòng thủ chuyên biệt:
 
 ---
 
-## 📁 4. Cấu trúc Thư mục Kho lưu trữ
-```text
-├── architectures/      # Sơ đồ kiến trúc mô hình mạng và các lớp phòng thủ (Draw.io / PNG)
-├── terraform/          # Mã nguồn Terraform dùng để tự động hóa triển khai hạ tầng GCP (IaC)
-├── configs/            # Các file cấu hình tường lửa, chính sách IAM và thiết lập Logging
-├── scripts/            # Các tập lệnh kiểm thử (Testing scripts) giả lập sự cố hoặc quét bảo mật
-└── docs/               # Tài liệu báo cáo chi tiết, mô tả kịch bản và đánh giá hệ thống
